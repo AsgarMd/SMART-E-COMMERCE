@@ -1,0 +1,35 @@
+
+.product{
+    width:230px;
+    height:auto;
+    float:left;
+    border:1px solid black;
+    margin:5px;
+    padding:8px;
+  }
+  .product-caption p{
+    font-weight:bold;
+  }
+  .product-caption del{
+    color:red;
+  }
+  .product-caption ins{
+    color:green;
+  }
+  .product-caption a{
+    display:block;
+    
+    padding: 10px;
+    text-align: center;
+    color:white;
+    font-size: small;
+    font-family: sans-serif;
+    text-decoration: none;
+  }
+  .product-caption a:hover{
+  background-color: orange;  
+  }
+  .product img{
+    height:180px;
+  }
+  
